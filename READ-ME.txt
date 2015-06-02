@@ -1,0 +1,9 @@
+Para executar o aplicativo, basta ir no seguinte caminho: t3poo/dist/t3poo.jar
+
+O funcionamento do aplicativo é simples: ao executar, uma janela é aberta com cinco opções (cadastro de usuários,
+de livros, aluguéis, devoluções e listagem dos dados). Ao escolher uma delas, será encaminhado ao seu respectivo menu,
+onde poderá executar a operação desejada. Todos os menus retornam ao menu principal, por meio de um botão "Back".
+
+Para cadastrar usuários, livros, aluguéis e devoluções, basta preencher seus campos e clicar em "Register" logo após.
+Para listar os dados, basta selecionar qual tipo de dado se deseja visualizar e clicar no botão "List".
+Para sair do aplicativo, basta clicar no botão "Exit", que está presente no menu principal.
